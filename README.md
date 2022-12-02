@@ -1,5 +1,3 @@
-Just some Apache log parsers for now.
-
 Some exemples:
 ```
 ./script.awk access.log
